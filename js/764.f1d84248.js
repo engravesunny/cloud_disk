@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdisk_final"]=self["webpackChunkdisk_final"]||[]).push([[764],{8764:function(n,e,u){u.r(e),u.d(e,{default:function(){return i}});var t=function(){var n=this,e=n._self._c;return e("el-card",[n._v("开发中")])},l=[],r={name:"CloudDiskIndex",data(){return{}},mounted(){},methods:{}},s=r,a=u(1001),d=(0,a.Z)(s,t,l,!1,null,"868e7464",null),i=d.exports}}]);
+//# sourceMappingURL=764.f1d84248.js.map
